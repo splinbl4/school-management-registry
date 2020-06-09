@@ -1,0 +1,3 @@
+certbot_email: mail@school-management.site
+certbot_hosts:
+    - registry.school-management.site
